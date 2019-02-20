@@ -60,3 +60,8 @@ void MainWindow::on_pushButton_clicked()
    OnFeedback();
 }
 ```
+具体使用请参考Demo [AppleScript_sendEmail](https://codeload.github.com/iOSPrincekin/AppleScript_sendEmail/zip/master)
+----
+# 许可
+
+PrincekinKlineFrame 是在Apache License 2.0协议下开发完成的. 关于细节请查看[Apache License 2.0协议](https://github.com/iOSPrincekin/PrincekinKlineFrame/blob/master/LICENSE)。
