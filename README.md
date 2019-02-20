@@ -1,3 +1,6 @@
+[![Platform](https://img.shields.io/badge/macosx-sendEamil%20%26%20Attachment%20-red.svg)](https://github.com/iOSPrincekin/AppleScript_sendEmail) [![Language ](https://img.shields.io/badge/c%2B%2B--blue.svg)](https://github.com/iOSPrincekin/AppleScript_sendEmail)
+
+
 # 背景
 
 在mac开发过程中，会遇到需要发送带有附件邮件的情况，最常见的就是用户想向我们发送带有log文件和问题描述的邮件，这就需要我们开发这一功能，我的这篇文章是针对Qt C++开发的同学，如果需要OC语言和Swift版的相对应功能的代码，可以回复我。
