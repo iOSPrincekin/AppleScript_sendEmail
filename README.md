@@ -60,7 +60,8 @@ void MainWindow::on_pushButton_clicked()
    OnFeedback();
 }
 ```
-具体使用请参考Demo [AppleScript_sendEmail](https://codeload.github.com/iOSPrincekin/AppleScript_sendEmail/zip/master)
+具体使用请参考Demo   [AppleScript_sendEmail](https://codeload.github.com/iOSPrincekin/AppleScript_sendEmail/zip/master)
+
 ----
 # 许可
 
